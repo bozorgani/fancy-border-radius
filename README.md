@@ -1,6 +1,8 @@
 # fancy-border-radius
 طراحی خاص افکت قطره( html , css )
 
+![](FANCY-BORDER-RADIUS.png)
+
 آموزش کامل این طراحی در لینک های زیر قابل مشاهده است :
 
 <br />
